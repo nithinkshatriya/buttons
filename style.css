@@ -64,3 +64,30 @@
     box-shadow:4px 5px 5px rgba(0,0,0,0.4); 
     border: 2px;
     }
+.Amazon-button{
+            background-color : rgb(255,216,20);
+            color : black ;
+            padding: 10px 50px;
+            border-radius: 25px;
+            border : none;
+            margin-bottom: 20px;
+        }
+        .request-button{
+            background-color: black;
+            color: white;
+            padding: 15px 22px;
+            border-radius: 5px;
+            font-weight: bold;
+            border: none;
+            margin-right: 15px;
+            cursor: pointer;
+        }
+        .schedule-button{
+            background-color: rgb(230,230,230);
+            color: black;
+            padding: 16px 22px;
+            border: none;
+            font-weight: bold;
+            border-radius: 11px;
+            cursor: pointer;
+        }
